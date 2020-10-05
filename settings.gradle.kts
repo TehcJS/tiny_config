@@ -1,2 +1,2 @@
-rootProject.name = "proton-config"
+rootProject.name = "tiny_config"
 
